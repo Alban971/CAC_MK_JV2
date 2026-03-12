@@ -6,11 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Alban JV2/CAC_MK_JV2/Content/Vehicles/SportsCar/Materials/MI_SportsCarBody.uasset",
-				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/ML/IKPL8TZIPJD28W1PES33RZ.uasset",
-				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5.uasset",
 				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/KR/NYLCWHFQIFXAXOEE5OY5PA.uasset",
 				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/7/HZ/F507VC36Q7IB1E7540PKD8.uasset",
-				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5.uasset"
+				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/1/JB/6MFQKMD9JKGY7WR6DZ02W5.uasset",
+				"D:/Alban JV2/CAC_MK_JV2/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPlayerController.uasset",
+				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/ML/IKPL8TZIPJD28W1PES33RZ.uasset",
+				"D:/Alban JV2/CAC_MK_JV2/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/L2/7C3FAMOHSOPU7A57XNKWM5.uasset"
 			]
 		}
 	]
